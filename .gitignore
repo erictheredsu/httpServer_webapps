@@ -1,0 +1,5 @@
+.DS_Store
+1.52.4/
+node_modules/
+.vscode/
+sapui5/
